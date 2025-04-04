@@ -2,7 +2,7 @@
 
 Este é um projeto de exemplo utilizando Next.js e Tailwind CSS para criar uma aplicação web moderna e responsiva.
 
-## Objetivo
+## 🛠️ Objetivo
 
 O objetivo deste projeto foi conhecer mais do Tailwind e utilizando animações como **Framer-Motion** e bibliotecas como: **shadcn-ui** e **radix-ui**
 
